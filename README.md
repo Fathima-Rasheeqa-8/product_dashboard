@@ -1,7 +1,10 @@
 # product_dashboard
 
-cd product_dashboard
-npm i
+cd product_dashboard                                                                                                                               
+
+npm i   
+
+
 npm run dev
 
 
